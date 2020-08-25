@@ -6,12 +6,12 @@ I am second year master student in Transportation Engineering at [University of 
 
 **University of Illinois at Urbana-Champaign**
 
-M.S. in Transportation Engineering, 2019-
+M.S. in Transportation Engineering, 2019-\n
 Advisor: [Han, Jiawei](http://hanj.cs.illinois.edu/)
 
 **Zhejiang University**
 
-B.S. in Civil Engineering, 2016-2020
+B.S. in Civil Engineering, 2016-2020\n
 Advisor: [Prof. Jin, Sheng](https://person.zju.edu.cn/en/jinsheng)
 
 ## What's Up
