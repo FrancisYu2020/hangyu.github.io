@@ -1,4 +1,4 @@
-## Welcome to Hang(Francis) Yu's GitHub Page
+# Welcome to Hang(Francis) Yu's GitHub Page
 
 You can use the [editor on GitHub](https://github.com/FrancisYu2020/hangyu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,22 +7,22 @@ Hi there, my name's Hang Yu (pronounce as hung, and I even cannot find a good ma
 
 I am second year master student in Transportation Engineering at [University of Illinois at Urbana-Champaign](https://illinois.edu/) and I am working with [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) and [Dr. Yu Meng](https://yumeng5.github.io/) on Text Mining research. My research currently focuses on query-based abstractive summarization in text mining and I am also interested in other research topics that machine learning techniques can be a dominant.
 
-### Education
+## Education
 
-# University of Illinois at Urbana-Champaign
+### University of Illinois at Urbana-Champaign
 M.S. in Transportation Engineering, 2019-
 Advisor: [Han, Jiawei](http://hanj.cs.illinois.edu/)
 
-# Zhejiang University
+### Zhejiang University
 B.S. in Civil Engineering, 2016-2020
 Advisor: [Prof. Jin, Sheng](https://person.zju.edu.cn/en/jinsheng)
 
-### What's Up
+## What's Up
 
-### What do you like
+## What do you like
 Well, Rubik's cube, table tennis, ice skating, basketball eat and sleep and that'll be all......
 
-### Contact Me
+## Contact Me
 Email: hangy6{at}illinois{dot}edu
 
 ```markdown
