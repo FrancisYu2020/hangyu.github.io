@@ -1,0 +1,28 @@
+/* tag selectors */
+body{
+  /* background-color: #e3fdfd; */
+  background-color: f6f5f5;
+  /* background-color: #eeeeee; */
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+}
+h1{
+  color: #66bfbf
+}
+h3{
+  color: #66bfbf
+}
+
+/* class selectors */
+.round_image{
+  border-radius: 100%
+}
+
+.black_title{
+  color: black;
+}
+
+/* id SELECTORS */
